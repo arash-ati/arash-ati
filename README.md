@@ -50,7 +50,6 @@ Beyond development, I also have experience in project operations, Agile methodol
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,sass,tailwind,bootstrap" alt="Frontend Skills" />
-  <img src="https://ionic.io/brand/ionic-icon.svg" alt="Ionic" height="48" />
 </p>
 
 **Technologies & Libraries**
@@ -72,8 +71,6 @@ Beyond development, I also have experience in project operations, Agile methodol
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
-  <img src="https://logoapi.sh/icon/elementor.com.svg" alt="Elementor" height="48" />
-  <img src="https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce.svg" alt="WooCommerce" height="48" />
 </p>
 
 - WordPress
