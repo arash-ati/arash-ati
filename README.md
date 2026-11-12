@@ -49,8 +49,7 @@ Beyond development, I also have experience in project operations, Agile methodol
 ### Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,sass,tailwind,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,ionic,sass,tailwind,bootstrap" /></p>
 
 **Technologies & Libraries**
 
@@ -70,7 +69,7 @@ Beyond development, I also have experience in project operations, Agile methodol
 ### CMS & E-commerce
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://skillicons.dev/icons?i=wordpress,elementor,woocommerce" alt="CMS & E-commerce Skills" />
 </p>
 
 - WordPress
