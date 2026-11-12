@@ -233,25 +233,23 @@ Islamic Azad University — Hamedan
 
 ---
 
-
 ## 📈 GitHub Statistics
 
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=arash-ati&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=arash-ati&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     alt="GitHub Statistics"
     height="180"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arash-ati&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=arash-ati&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
     height="180"
   />
 
 </div>
-
 
 ---
 
